@@ -1,12 +1,13 @@
-= 山形旅行 2021
+= 山形旅行
 
 :br: pass:p[ +]
 
 == 日程
-=== 2021-08-18 1日目
+=== 2021-08-18（1日目）
 
+[options="header"]
 |===
-| 場所 | 到着 | 出発 |
+| 場所 | 到着 | 出発 | 備考
 | 弘明寺駅 | | 07:22 |
 | 横浜駅 | 07:36 | 07:43 |
 | 東京駅 | 08:15 | 08:45 | https://www.tokyoeki-1bangai.co.jp/shop/detail/?cd=000161[プレシャスデリ東京]
@@ -18,14 +19,15 @@ https://www.google.co.jp/maps/place/%E7%80%A7%E4%B8%8D%E5%8B%95%E7%94%9F%E3%81%9
 https://www.yamaderakankou.com/pamphlet/index.html[パンフレット]
 | 天童 | 17:00 | 17:20 |
 | ホテル | 18:00 | | https://itiraku.com/[桜桃の花 湯坊いちらく] https://www.google.co.jp/maps/place/%E6%A1%9C%E6%A1%83%E3%81%AE%E8%8A%B1+%E6%B9%AF%E5%9D%8A%E3%81%84%E3%81%A1%E3%82%89%E3%81%8F/@38.359242,140.3832377,17.25z/data=!3m1!5s0x5f8bc50c7e483ea9:0xfa396026309f707d!4m9!3m8!1s0x5f8bc50c7f3dfb35:0x311016ebde4b9b7d!5m3!1s2021-08-19!4m1!1i2!8m2!3d38.3592336!4d140.3849005?hl=ja[(Google Maps)]{br}
-電話 0236-54-3311{br}
+電話 023-654-3311{br}
 確認番号: RYa0dma6t1{br}
-{br}
 https://peraichi.com/landing_pages/view/tendobrewery/[天童ブルワリー]
 |===
+{br}{br}
 
-=== 2021-08-19 2日目
+=== 2021-08-19（2日目）
 
+[options="header"]
 |===
 | 場所 | 到着 | 出発 |
 | 天童駒を作り | | | 
@@ -38,6 +40,6 @@ https://www.google.com/maps/place/%E9%BE%8D%E4%B8%8A%E6%B5%B7+%E5%B1%B1%E5%A4%A7
 | 横浜駅 | 23:09 | 23:16 |
 | 弘明寺駅 | 23:28 | |
 |===
-
+{br}{br}
 
 == 観光情報
