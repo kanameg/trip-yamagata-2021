@@ -30,7 +30,10 @@ https://peraichi.com/landing_pages/view/tendobrewery/[天童ブルワリー]
 [options="header"]
 |===
 | 場所 | 到着 | 出発 |
-| 天童駒作り | 10:00 | 11:00 | http://eishundo.web.fc2.com/[栄春堂]
+| 天童駒作り | 10:00 | 11:00 | https://eishundo.web.fc2.com/[栄春堂]
+https://www.google.com/maps/place/%E6%A0%84%E6%98%A5%E5%A0%82+%E6%9C%AC%E5%BA%97/@38.3601249,140.3803774,20.69z/data=!3m1!5s0x5f8bc509669b1815:0x79db84e1393b2cdf!4m5!3m4!1s0x5f8bc509668585f7:0xc6c06c836575685e!8m2!3d38.3601091!4d140.3806485[(Google Maps)]{br}
+電話 023-653-2843
+| 高瀬高瀬紅花畑 | | | https://www.google.com/maps/place/%E5%B1%B1%E5%BD%A2%E5%B8%82+%E9%AB%98%E7%80%AC%E7%B4%85%E8%8A%B1%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@38.2902522,140.400809,15.56z/am=t/data=!4m5!3m4!1s0x5f8bc9379b15e597:0x858b183c67a186fb!8m2!3d38.292184!4d140.4028647[高瀬紅花ふれあいセンター[Google Maps]]
 https://www.google.com/maps/place/%E6%A0%84%E6%98%A5%E5%A0%82+%E6%9C%AC%E5%BA%97/@38.3601249,140.3803774,20.69z/data=!3m1!5s0x5f8bc509669b1815:0x79db84e1393b2cdf!4m5!3m4!1s0x5f8bc509668585f7:0xc6c06c836575685e!8m2!3d38.3601091!4d140.3806485[(Google Maps)]{br}
 電話 023-653-2843
 | 龍上海 |  |  |https://www.google.com/maps/place/%E9%BE%8D%E4%B8%8A%E6%B5%B7+%E5%B1%B1%E5%A4%A7%E5%8C%BB%E5%AD%A6%E9%83%A8%E5%89%8D%E6%94%AF%E5%BA%97/@38.2157103,140.3197153,17z/data=!3m1!5s0x5f8bb44f487318cb:0x5affd2a65c12e7fe!4m12!1m6!3m5!1s0x5f8bb44f483eba61:0xded80ecc88b3b99d!2z6b6N5LiK5rW3IOWxseWkp-WMu-WtpumDqOWJjeaUr-W6lw!8m2!3d38.2157103!4d140.321904!3m4!1s0x5f8bb44f483eba61:0xded80ecc88b3b99d!8m2!3d38.2157103!4d140.321904[山大医学部前支店 (Google Maps)]
