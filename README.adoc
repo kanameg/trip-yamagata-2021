@@ -73,3 +73,11 @@ https://www.google.com/maps/dir/%E5%A4%A9%E7%AB%A5/%E5%B1%B1%E5%BD%A2%E5%B8%82+%
 * 御釜 -> ぐっと山形 -> 山形駅
 https://www.google.com/maps/dir/%E5%BE%A1%E9%87%9C/%E3%80%92990-2307+%E5%B1%B1%E5%BD%A2%E7%9C%8C%E5%B1%B1%E5%BD%A2%E5%B8%82%E8%A1%A8%E8%94%B5%E7%8E%8B%EF%BC%96%EF%BC%98+%E3%81%90%E3%81%A3%E3%81%A8%E5%B1%B1%E5%BD%A2%EF%BC%88%E5%B1%B1%E5%BD%A2%E7%9C%8C%E8%A6%B3%E5%85%89%E7%89%A9%E7%94%A3%E4%BC%9A%E9%A4%A8%EF%BC%89/%E5%B1%B1%E5%BD%A2/@38.1901207,140.3174739,14.75z/data=!3m1!5s0x5f8bb482c7b7bf31:0x741c188aa616cf02!4m20!4m19!1m5!1m1!1s0x5f8a4965ac3b0e07:0x1fadc3987e2d5a01!2m2!1d140.4494818!2d38.1365097!1m5!1m1!1s0x5f8bb482c64866f1:0xdc0fdb707508c04d!2m2!1d140.3125639!2d38.1903059!1m5!1m1!1s0x5f8bb60e60a3409f:0x97690a5c293c5566!2m2!1d140.3274645!2d38.2486599!3e0[経路]
 
+== 予約情報
+
+* レンタカー
+https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%AB%E3%83%BC/FMfcgzGkZQSzRKtsKnDTgnrNSLDSBRpn[メール]
+* えきねっと電車
+https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/%E3%81%88%E3%81%8D%E3%81%AD%E3%81%A3%E3%81%A8/FMfcgzGkZQSzRHgbqljgNBgnnmBMGnGc[メール]
+* ホテル
+https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/+%E3%81%84%E3%81%A1%E3%82%89%E3%81%8F/FMfcgzGkZQQgbgKJQwHdSTgFkVsfPCpp[メール]
